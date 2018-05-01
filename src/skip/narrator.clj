@@ -1,0 +1,4 @@
+#narrator
+
+
+(defn narrate [actions])

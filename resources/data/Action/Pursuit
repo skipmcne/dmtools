@@ -1,0 +1,9 @@
+# Pursuit - The :heroes are chased by the :villian.
+# Pursuit - The :villian is chased by the :heroes.
+(defn Pursuit :Pursued :Pursuer)
+      (Scene Pursuit-Beginning :Pursued :Pursuer)  # set the action
+      (encounter Chase  :Pursued :Pursuer) # execute the chase 
+      (Scene Pursuit-ending-caught :Pursued :Pursuer) # define the "sucess" scene
+      (Scene Pursuit-ending-escaped :Pursued :Pursuer)# define the "failure" scene
+
+    

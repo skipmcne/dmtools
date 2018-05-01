@@ -1,0 +1,28 @@
+Reynor Thom, miller (retired Fighter 9)
+;[A7]
+;Wife: Mareth
+;Sons: Ebert and Rothgar
+;Aye, tis all grist for the mill. You lot do any honest work? Not likely. 
+
+;Reynor is an older man with two grown sons, who do most of the heavy lifting around the mill. He is broad shouldered, but walks with a severe limp, the result of a major injury in his youth. He hides a good heart behind a gruff exterior, having seen a great deal of pain and suffering in his youth.
+
+
+(Char :Reynor
+  (Describe "an older man, broad shouldered, who walks with a severe limp")
+  (Greet (say "Aye, tis all grist for the mill. You lot do any honest work? Not likely. "))
+  (AskedAboutNPC 
+		(:Dorn (say "He’s the only one of this bunch I’d trust to watch my back. Steel is strong, but dwarven honor is stronger!"))
+		(:Olvar (say "I don’t hold much for praying. Man needs to take control of his own fate; gods and demons will be what they may."))
+		(:Teren (say "That one’s looking to land him a rich widow. Haw!"))
+		(:Mathwyn (say "Smarter than she looks, I’ll grant you. Can’t believe half what she says, though."))
+		(:Others (say "Good folk, mostly pay on time & bring the grain in steady."))
+	)
+	(AskedLocalKnowledge
+		(say "You stay close to town and close to the road – it’s safer.")
+		((DC 10) (say "The gnomes of Waymoot are a bit up the road and will take in strangers for the night if you need a safe place."))
+		((DC 12) (say "There’s danger to the west, and more to the east – but being adventurers, you’ll get yourself hip-deep in it."))
+		((DC 15) (say "You want trouble? Well, you might try the ruined keep up in the hills to the east."))
+		((DC 20) (say "Yep, kobolds, goblins, hobgoblins, lizardfolk, and worse here abouts. Luckily they keeps to themselves, but I’ve little enough to fear."))
+		((DC 25) (say "Yes, I was an adventurer once. Got this bum leg fighting subterranean horrors on a far off place called the Isle of Dread. Lost everything I loved there. You learn this now: grab on to what you have; this adventurer’s life is a will o’ wisp and only brings misery!"))	)
+	)
+)

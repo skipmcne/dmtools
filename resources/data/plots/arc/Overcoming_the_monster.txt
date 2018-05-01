@@ -1,0 +1,27 @@
+
+;;Overcoming the Monster - Hero learns of a great evil threatening the land, and sets out to destroy it.
+(Precondition (:villian (is :type :monster)))
+(valid-goal (Escape Explore Encounter "Gain Money" "Gain Power" Protect Rescue Retrieve Settle Survive Thwart ))
+
+;;(id (type previous success failure))
+
+(00 (Sequence nil 01 nil) Initial "The setup.")
+(01 (Sequence 00 02 nil) Hook ":random Hook")
+(02 (Sequence 01 03 nil) Reconnaissance ":heroes learns about the :villain.")
+(03 (Sequence 02 04 nil) Delivery ":heroes discovers information.")
+(04 (Sequence 03 05 nil) Villainy ":villain does something really evil, normally stealing the :Macguffin or kidnapping the princess.")
+(05 (Sequence 04 06 nil) Meditation ":hero figures out a plan and get ready to set out on their quest.")
+(06 (Action 05 06 08)  ("Beginning counteraction") ":heroes choose to fight back.")
+(07 (Sequence 06 07 08) Departure ":heroes. are forced to depart .")
+(08 (Sequence 07 08 08) ("First function of donor") "The :hero run into a donor or a magic dude. This character can be The Obi-Wan, a mysterious beggar or a "None Shall Pass" kind of character. They may have to pass a test. The hero may have to fight the donor. But on the bright side, the donor may have a magical object to help them on their quest.")
+(09 (Sequence 08 09 08) Protagonist_reaction "The :hero outsmarts, outfights or finds a way around the donor's demands. He gets the Macguffin.")
+(10 (Sequence 09 10 08) ("Acquisition of Magical Agent") "The obi-wan type character. Can be the donor. This character helps the  :hero on his quest, sometimes willingly, sometimes not.")
+(11 (Sequence 10 11 08) Transference ":hero is taken to a new place. Physically. Emotionally. Spiritually. Grammatically.")
+(12 (Sequence 11 12 08) Struggle ":hero (surprisingly) struggles.")
+(13 (Action 12 13 08) Victory ":hero beats the villain with his wits, his special abilities or his brawn.")
+(14 (Sequence 13 14 08) Return ":villain returns.")
+(15 (Action 14 15 08) Pursuit ":heroes are chased by the villain, who is going all One-Winged Angel on them.")
+(16 (Action 15 16 08) Rescue ":heroes run for it and escape by placing obstacles in the villain's path.")
+(17 (Sequence 16 nil nil) Recognised "The hero comes home and no one knows who he is because...")
+(18 (Sequence [] nil nil) Defeated "The hero comes home and ...")
+

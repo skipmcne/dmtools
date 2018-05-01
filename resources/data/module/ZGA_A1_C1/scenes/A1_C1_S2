@@ -1,0 +1,29 @@
+;setup
+(scene :A1_C1_S2_S1 
+
+"The first of the noble carriages have begun to approach the royal shipyard,
+and already the crowd on the bridge is doing its job: cheering, throwing flowers,
+and performing folk songs and dances to show their support.
+Before things get too busy, your direct superior—Assistant Chief Inspector
+Stover Delft—asked you to come to a last-minute meeting to give you your march-
+ing orders. You find him chewing a bit of tobacco and eyeing a halfling chef who is
+carrying a tray of chocolate confections toward the docked Coaltongue.
+His attention turns to you, and he smiles. “Only the finest for our king, right?
+“Now then,” he says, “we’re about to earn our pay. Lots of nobles about, so
+first, don’t make a scene, and definitely don’t talk to any of the nobility unless
+they address you first.
+“Second, if something goes wrong, try to handle it yourselves, would you? I’m
+going to be busy applying my not-inconsiderable charms to very important people.
+The RHC doesn’t get by on just good will and pretty faces, you know.
+“And third, you did good work, so I’ve got a surprise for you.”
+He grabs his cane and leads you to the gangplank of the Coaltongue. But
+he’s not pursuing the halfling chef. Rather, ahead of you waits Principal Minister
+Harkover Lee, the king’s chief advisor and personal bodyguard.")
+
+(scene :A1_C1_S2_S1 )
+(scene :A1_C1_S2_S1 )
+(scene :A1_C1_S2_S1 )
+(scene :A1_C1_S2_S1 )
+(scene :A1_C1_S2_S1 )
+(scene :A1_C1_S2_S1 )
+(scene :A1_C1_S2_S1 )

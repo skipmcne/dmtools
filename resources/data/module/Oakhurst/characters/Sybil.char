@@ -1,0 +1,30 @@
+;Sybil, the Mist Witch [A1]
+;And what are you looking at? Adventurers, bah! Worthless layabouts!
+;Sybil is an old and haggard woman with a hooked nose and wild white hair. She lives in a hut on an island in the Mistmarsh, where she makes charms, fishes, and deals with the various inhabitants of the swamp, only venturing into Oakhurst when there is something she must trade for.
+
+
+
+(Char :Sybil
+  (Describe "an old and haggard woman with a hooked nose and wild white hair.")
+  (Greet (say "And what are you looking at? Adventurers, bah! Worthless layabouts!"))
+  (AskedAboutNPC 
+	  	(:Teren (say "That busybody! Always with a smile and a “Good neighbor!” Bah. The best neighbor leaves well enough alone!"))
+	  	(:Olvar (say "He’s the biggest fool of the lot, always looking on the bright side. Ain’t no bright side to a poison fang."))
+				((DC 15] His brother now, there was a man. Kind and gentle as can be, knew how to treat a lady right."))
+				((DC 18] The fun we had, Talwin and I, walks in the moonlight. ‘Twas he who first taught me the ways of the Mistmarsh."))
+				((DC 20] And that brother, Olvar. So jealous – wanted me for himself. A great beauty I was, then. I could tell he wanted me."))
+				((DC 22] Talwin insisted that he earn his fortune before we married and settled down. I was willing to wait for him ... but he never returned! Oh, Talwin, what became of ye?"))
+				((DC 25] I’m sure Olvar put that adventuring idea in his head – get Talwin out of the way so he could have me for himself."))
+	  	(:Reynor (say "That man frightens me. His eyes have seen far more than any of the others."))
+	  	(:Mathwyn (say "Fool woman. Hasn’t got a brain in her head, that one. Everything she spews from that foul mouth is vile gossip."))
+	  	(:Other (say "Fools, all of them. If they knew what dwelt in the swamp it would freeze their blood cold – and they call me hag!"))
+	)
+	(AskLocalKnowledge
+			(say "Bah! Mind yer own business, and ye’ll not get hurt! I may be tempted t’ throw a curse on ye!")
+			((DC 14) (say "Beware the mad wizard of the Tower Perilous! He’ll turn you to stone.")
+			((DC 15) (say "Aye, there’s kobolds about, and worse. Stay close to the road!")
+			((DC 18) (say "Dragonborn? No such thing. Just folk seeing lizardfolk in war paint, I tell you.")
+			((DC 20) (say "The tribe of lizardfolk out in the marsh – they’d attack if I hadn’t convinced ‘em it would be safer not to.")
+			((DC 25) (say "A week ago I was out collecting roots in the swamp, when an enormous black dragon settled into the water to hunt a croc. ‘Twas all I could do to keep from wetting myself!"))
+)
+

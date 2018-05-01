@@ -1,0 +1,10 @@
+Story files contain premises, situations, and provocations. They lay out locations and objects that characters might encounter, and provide narrative turning points that might depend on how characters currently relate to one another. Story files create opportunities for characters to change their views of one another, come into conflict, and have to make difficult choices, or perhaps to discover what is going on in the narrative scenario.
+
+A story file includes a list of roles that can be played in that story, such as “a traveler on the road at night” or “a guest at a ball,” together with some restrictions about how those roles might be cast: for instance, the ball guest might need to be an upper-class character rather than a servant. 
+
+premises
+situations
+provocations
+locations
+objects
+roles

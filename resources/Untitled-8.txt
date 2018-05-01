@@ -1,0 +1,65 @@
+Theme	Action/Adventure
+This is the most common and straightforward sort of adventure there is. In the Action/Adventure scenario, you present your characters with a task and then confront them with obstacles to overcome in order to accomplish the task successfully.
+
+Goal	Encounter Old Villain
+If your campaign has a villain who shows up again and again to bedevil the heroes, then this is an episode featuring that villain. You might wish to roll once again on this section to see what the villain's goal is.
+
+Story Hook	Grim Necessity
+If the hero doesn't involve himself with this adventure, he's going to find himself suffering or dead -- period. That's the hook to bring him into the adventure... but you have to determine why he'll suffer or die if he doesn't become involved.
+
+Plot	Event
+For this plot, choose some sort of event -- a tournament, a holiday, a celebration called by the king, a masked ball, or whatever -- and set the commencement of the Master Villain's plan against that backdrop.
+
+Climax	Throne Room Duel
+This is set up much like the Scattered Duels, except that you don't separate the heroes. It's harder to control whom fights who in this situation... but if it doesn't matter who has the final duel with the Master Villain, this is a classic climax choice.
+
+General Setting	Exotic Distant Land
+The adventure will take the heroes to some fascinating and exotic distant country, where they'll have to cope with new customs, monsters unfamiliar to them, and very colorful NPC encounters; choose one of the more fascinating foreign lands from your campaign world.
+
+Specific Setting I	Demi-human Community
+In wilderness areas, this will be a large community of demi-humans -- elves, dwarves, halflings, whatever -- or intelligent nonhumans such as orcs. If your action is taking place in a city, this could be a hidden community (such as a secret underground dwarf community) or a section of the city inhabited mostly by demi-humans.
+
+Specific Setting II	Palace of the King
+The heroes could be here for many, many different reasons: Trying to get a favor from the ruler, part of some nobleman's retinue, members of the palace guard, sneaking in to save the ruler from assassins, sneaking in to assassinate the ruler, thrown into the dungeon for crimes they did or didn't commit, etc.
+
+Master Villain	Ravager
+This Master Villain is like the Destroyer, except that he terrorizes a very limited area -- such as a village, island, castle, or clan stronghold. (He may want to destroy the whole world but be trapped where he is; perhaps his efforts to free himself constitute the adventure's plot.) He stays in his area and terrorizes whatever comes into it.
+
+Minor Villain I	Inquisitor
+This villain is the one who interrogates the heroes and NPCs captured by the villains. He accompanies the other Minor Villain out into the field and works on anyone captured; he enjoys inflicting pain and suffering.
+
+Minor Villain II	Chief Assassin
+The Chief Assassin is the favorite killer of the Master Villain. The Assassin works mostly in the field, first killing witnesses who might prove harmful to his master, then zeroing in on the player-characters. He usually meets his end before the adventure's climax, but he may taken one of the heroes down with him.
+
+Ally/Neutral	Absent-Minded Expert
+The characters find they need an expert in some fields -- pottery, alchemy, whatever -- but all they can find is a somewhat daffy and absent-minded master of that subject. He's useful when around his subject matter, but otherwise absent-minded, incautions, in frequent need of rescuing, etc.
+
+Monster Encounter	Stampede
+Should the heroes ever cross plains or prairies, their villainous enemies may wish to stampede a herd of large animals at them. Alternatively, beasts in the forest may be stampeded by fires set by the villains; in this case, it will not be one sort of animal charging through, but a mixture of terrified forest animals, from the smallest fox-cub to the largest bear.
+
+Character Encounter	Lying Accuser
+A captured thief may accuse the character of putting him up to the theft; an abandoned mother may accuse the hero of fathering the child; a reputable witness (working for the Master Villain) may accuse the hero of a murder or robbery. The hero shouldn't know what he's accused of until he's hauled in by the authorities.
+
+Deathtrap	Rock and a Hard Place
+This trap starts out as an Animal Pit, Pit and the Pendulum, or Tomb Deathtrap, but an obvious escape suggests itself very early on. Trouble is, it leads into even worse danger. The hole out of the animal pit may lead to the lair of an even worse animal; it may lead through a succession of dangers (collapsing old catacombs, into an underground river, into a den of zombies) before the heroes reach the light.
+
+Chase	Footrace
+The chase involves the characters on foot, probably through such terrain as city streets or the corridors of a palace. One hero may realize that the's being pursued by a party of enemies and choose to run for it; the heroes may have caught up to the Master Villain, prompting him to run for his life.
+
+Omen/Prophesy	Reincarnation
+The hero, seeing the portrait of some long-dead nobleman, may be surprised to see his own face staring back at him. All evidence points to the fact that our hero is the reincarnation of this person, and the Master Villain may desire to destroy any trace of that nobleman's existence. Just as appropriately, this long-dead nobleman may have died after making some important choice -- such as choosing love over career or career over friends; and the choice he faced is identical to the one the hero now faces. Will our hero defy the prophecy and choose as he did in a previous life, or will he choose the other option and see what happens?
+
+Secret Weakness	Secret Embarrassment
+Finally, the villain may have some aberration or secret shame that will force him to flee when he is confronted with it. It could be something as simple as the fact that his nose is too big, or that he is a small and nebbishly wizard pretending to be some vast, powerful demonic power. When his shame is revealed, he is too humiliated to continue; this is a good option for comedy adventures.
+
+Special Condition	No Weapons Allowed
+At some point in the story, the heroes must surrender their weapons. Perhaps they're visiting some quarter of the city where weapons are not allowed; or a particularly peace-loving temple. In any case, once they're there, they are attacked by enemies belonging to the Master Villain.
+
+Moral Quandry	Honor Quandry
+You want to use this on the character with the most strongly developed sense of personal honor -- someone who has lived all his life by a strict code. Toward the end of the adventure, this character realizes that the best way to defeat the Master Villain is a violation of that code. For instance, the character might be a paladin, who discovers that the only possible way for the heroes to defeat the Master Villain is to sneak up on him and stab him in the back.
+
+Red Herring	Lying Rumor
+This is the worst and most useful type of red herring -- the interesting rumor which just happens to be false. In adventures of this sort, the best Lying Rumor concerns the Master Villain; it gives the heroes some "important" information about him which later turns out to be useless.
+
+Cruel Trick	Heroes Must Work with Villain
+If they have to work for the villain, it's due to some hold he has over them -- probably, he's kidnapped one of their NPCs and will kill this person if his demands aren't met. Put the heroes through the encounter where they have to do something they are loathe to do, such as sack and pillage a temple, before they have the opportunity to retrieve their friend.

@@ -1,0 +1,29 @@
+Perhaps the most powerful mage in Risur, Lee acts as
+King Aodhan’s bodyguard and chief of staff. Straight-
+backed and virile despite being in his 60s, Lee has a
+slight Ber-tinged accent, and was said to be quite the
+ladykiller in his youth. He always dresses in reds and
+golds and carries a solid gold wizard’s orb tucked into
+his robes. He never eats or drinks in public.
+
+(Char :stover_delft 
+;  (Describe "a sturdy, bald-headed, black bearded taciturn dwarf")
+;  (Greet (say "Ho, Neighbor? Anything you need today?"));about the location of Khundrakkar, or information about (AskAboutNPC
+;		(:Teren (say "That blowhard. Talk yer ear off while he’s filching yer coppers. But he puts a good enough face on, and he’s honorable."))
+;		(:Olvar (say "He’s a priest. Need I say more? Hasn’t got the sense to worship Moradin, but then, what human does?"))
+;		(:Sybil (say "More to that one than meets the eye, methinks."))
+;		(:Reynor (say "Now there’s the only human here I wouldn’t underestimate."))
+;		(:Mathwyn (say "If that woman’d pound a hammer the way she flaps her gums, I’d be out of work!"))
+;		(:Other (say "*shrug* They bring me enough work, though they seldom appreciate the value of good dwarf-made steel."))
+;	)
+;	(AskLocalKnowledge
+;		(say "It is what you see. Stick to the roads and you’ll be safe."))
+;		((DC 12) (say "Duergeddin was the finest dwarf smith ever to live. Makes me best work look like child’s play."))
+;		((DC 14) (say "Somewhere away to the east lies the home of my forefathers, the Ironarm clan, called Mountain Home. I’ve never seen it meself, lost these many years it is."))
+;		((DC 15) (say "They say Duergeddin built himself a forge in the mountains, in a fortress called Khundrakkar, but no dwarf alive has seen it."))
+;		((DC 18) (say "The key to Khundrakkar, they say, is a single strong tooth. Now that’s a riddle if I’ve heard one."))  
+;		((DC 20) (say "There are clues, they say to the location of Mountain Home."))
+;		((DC 22) (say "Legend says the route to Mountain Home starts from the Stone Table."))
+;		((DC 25) (say "Head southeast from Stone Table until you reach the Giant’s Chair, then east to the Giant’s Hammer. No, of course I don’t know what it means, or I’d have found it myself!"))
+;	)
+)

@@ -1,0 +1,178 @@
+;crowd-security
+;
+; 
+;
+;A crowd of hundreds wait at a security checkpoint. In half an hour they’ll line up along streets to cheer the king’s arrival, and you must make sure no one dangerous gets through.
+;
+;To set the tone for the campaign, the first encounter is a quick investigation. Thousands of visitors have poured into the city, hoping to see the king. They’ve gathered in Royal Square, on the mainland side of a bridge that leads to the Royal Shipyard. The police are counting off exactly seven hundred people who will be let onto the bridge and into Fleet Square on the shipyard island so that they can cheer as the carriages of the king and other dignitaries arrive.
+;
+;Four dockers—Coulton, Mercliffe, Iscalio, and a war vet named Dafton—have come to the event, ready to cause some trouble. They’re angry that the city police force has been cracking down on docker gatherings; indeed, all of them but Dafton still have bruises from a scuffle earlier in the week. Mostly they just intend to heckle and shout insults, but Dafton plans a more dramatic gesture: he wants to assault Governor Stanfield.
+;
+;Meanwhile Thames Grimsley, a grizzled sailor who is trying to or- ganize an official dockers guild, has caught wind of the men’s plan, and he’s trying to get to them before they get themselves arrested or worse. 
+;
+;The four dockers are spread throughout Royal Square, waiting for the cops to finish counting before they link up. Once the cops reach seven hundred, they’ll let the whole crowd through the check point and onto the bridge. The PCs have about half an hour to survey the crowd for possible threats and spot the dockers. If they fail, Thames Grimsley arrives just after the parade crowd is let in. The police won’t let him pass, but if the PCs investigate, Grimsley might be willing to help them.
+;
+;If the PCs are lucky, they can pull the dockers aside early and avert a crisis, but once the crowd gets sent in, the four men will link up, making it much harder to deal with them without a brawl.
+
+
+;
+; Sequence overview 
+;Find the Dockers (Level 1 Skill Challenge).
+;Key Skills: Bluff, Diplomacy, History, Insight, Intimidate, Perception, Stealth, Streetwise
+;Difficulty: Unless otherwise noted, all skill checks are DC 18.
+;This challenge has four goals, requiring a total of eight successful
+;skill checks to get a full victory, and six or seven for a partial victory.
+;The party has half an hour to accomplish these goals, and they cannot progress to the next goal until they have succeeded the current goal.
+;Goal One: Brief the Party and Police. 1 success.
+;Goal Two: Canvass the Crowd. 4 successes (5 total).
+;Goal Three: Find the Dockers. 2 successes (7 total).
+;Goal Four: Find the Fourth Man. 1 success (8 total).
+;
+(:A1_C1_S1_S0 :A1_C1_S1_S1 :A1_C1_S1_S2 :A1_C1_S1_S3 :A1_C1_S1_S4 :A1_C1_S1_S5)
+(scene :A1_C1_S1_S0 setup 
+	(players (Antagonists :stover_delft)
+	(Protagonists :player-party))
+	(location :RHS_Barracks)
+	(do 
+		(narrate "gathered at the RHS Barracks briefing room as directed by ")
+		(say :stover_delft "If you are investigating Gale, keep yer rings handy, there's been a sighting in the needles.")
+		(say :stover_delft "those on beats keep your ears out, we had some trouble with dockers last night.")
+		(say :stover_delft "We've got a number of red foreigners in town, so travel in pairs and keep an eye on any military veteran you see, with the king in town we don't need anyone looking for revenge for old war slights.")
+		(say :stover_delft "I've heard the naturalists are in town again, there was a sighting of a walking tree yesterday afternoon in the woods outside the [] district, be careful as you head through the parks, there's no telling what the naturalists have gotten up to.")
+		(say :stover_delft "Alright Greenies, Listen up ! ")
+		(say :stover_delft "It's no suprise that we are short handed today, what with the king coming to town. ")
+		(say :stover_delft "I need the new Constables to report to the Royal square in the docks for crowd control before 3 this afternoon.")
+		(say :stover_delft "If you lack assignments, see William.")
+		(say :stover_delft "That's it!")
+	)	
+)
+
+
+(scene :A1_C1_S1_S1 setup 
+	(players (Antagonists :stover_delft)
+	(Protagonists :player-party))
+	(location :royal_square)	
+"A crowd of hundreds wait at a security checkpoint. In half an hour they’ll line up along streets to cheer the king’s arrival, and you must make sure no one dangerous gets through."
+"Thousands of visitors have poured into the city, hoping to see the king. They’ve gathered in Royal Square, on the mainland side of a bridge that leads to the Royal Shipyard. The police are counting off exactly seven hundred people who will be let onto the bridge and into Fleet Square on the shipyard island so that they can cheer as the carriages of the king and other dignitaries arrive.") 
+
+(scene :A1_C1_S1_S2 
+	(players
+	(Antagonists :Coulton :Mercliffe :Iscalio :Dafton :Thames-Grimsley)
+	(Protagonists :Player-Party)
+	(Cast-of-thousands :generic-docker generic)   )
+
+Goal One: Brief the Party and Police.
+	You can’t just question the whole crowd. You need a clear idea of what appearances or mannerisms might be clues that someone’s a threat. In their preparation for today’s event, the Royal Homeland Constabulary determined that four groups in particular are likely to cause trouble. The fastest way for the PCs to search for threats is to figure out who in this crowd of seven hundred people fit any of these profiles.
+
+	* Dockers, angry because of how the city treats them.
+	* Primalists—i.e., believers in the old druidic faith—angry at all the new industry.
+	* Agents of the fey terrorist known as “Gale,” who might try to sabotage the ship.
+	* War veterans, who might target the ship’s tiefling designer.
+((History or Streetwise, DC 16) "Create a Threat Profile" 
+;"To be able
+;to brief the police and the rest of the party, a PC needs to have a clear
+;sense of the different threats. A PC who attempts this check get a +2
+;bonus to this check if any member of the party has the Docker theme,
+;and another +2 bonus if anyone has the Yerasol Veteran theme.
+;Once any PC makes a successful check, give the party the following
+;information.
+)
+
+
+(Success 1)  
+Dockers are usually burly working men with eclectic fashion.
+Primalists have particular hairstyles, wear sandals, and adorn themselves with druidic religious icons.
+Fey saboteurs are typically elves or half-elves with impeccable grooming from their rituals, though they often try to hide this by dressing in soot-stained clothes. 
+War veterans will usually be either in the mid- to late-twenties, or late-fifties/early-sixties, usuallyin better fighting shape than common citizens.
+(Failure -)
+)
+
+
+)
+(scene :A1_C1_S1_S3 
+Goal Two: Canvass the Crowd.
+You have to look for possible threats out of hundreds of men, women, and
+scampering children. Work together and with the police to canvas the
+whole crowd.
+The crowd can be roughly divided into four quadrants. To search the
+whole thing for people matching the above profiles, the party has to suc-
+ceed a total of four checks, but they can do that with any combination of
+the following methods (or creative ideas of their own). If you have four
+PCs skilled at Perception, they might all just hang back, but most likely
+the party will use a combination of skills.
+Mingle with the Crowd. (Insight) A PC could go into the crowd and
+look for people who match the profiles.
+Recruit the Cops. (Diplomacy) A PC might coordinate a small
+group of cops to also scan the crowd.
+Recruit some Rascals. (Streetwise) A PC could try to convince a few
+kids to be his eyes and ears.
+Scan the Crowd. (Perception) A PC can watch from afar to spot
+people who look like they match the profile.
+
+)
+
+(scene :A1_C1_S1_S4 
+Goal Three: Find the Suspects.
+You’ve picked out about twenty people of interest, but you need to separate
+the innocent parade-goers from actual threats.
+Failed skill checks here probably result in the party pulling aside in-
+nocent people, and then wasting time questioning them before realizing
+they’re not a threat.
+The PCs need two successes here. The first success identifies Coul-
+ton. The second identifies both Mercliffe and Iscalio. If the PCs are
+smart, they can pull the three aside peacefully, but if they antagonize
+the men, the dockers might try to fight. If that happens, see Docker
+Brawl, below.
+Confrontation. (Insight) A PC could go to people of interest and ask
+questions.
+Deception. (Bluff) A PC might feign camaraderie with the different
+people of interest in an effort to draw out an admission.
+Good Cop, Bad Cop. (Diplomacy or Intimidate) This option is only
+available once the party identifies Coulton. Two PCs must both spend
+time on this action. One PC makes an Intimidate check, and another
+makes a Diplomacy check. They each gain a +2 bonus to their check. If
+they both succeed, the dockers also rat out Dafton, which counts as a
+success on goal four.
+Observation. (Perception) A PC could watch the various people of
+interest to see how they react to all the law enforcement activity.
+Yank Them All. (Stealth) A PC might just grab as many people of
+interest as he can, but he has to do so discreetly so that no actual threats
+get tipped off and try to hide in the crowd.
+
+)
+
+(Scene :A1_C1_S1_S5
+Goal Four: Find the Fourth Man.
+Once the PCs have the three dockers, drop some obvious clue that
+there’s a fourth man, Dafton. The three dockers aren’t too bright, and
+they let slip that someone else is with them, but they don’t want to co-
+operate with the PCs. With likely little time left, the party needs to find
+the most dangerous member of the group. They just need one success.
+Various. (Various skills, DC 20) The PCs can use any of the methods
+from the previous goal.
+As with above, Dafton might go peacefully, but if the PCs anger him,
+he’s ready for a fight.
+)
+
+
+(Scene :A1_C1_S1_F1
+:Docker-Brawl)
+
+(Scene :A1_C1_S1_S6
+Grimsley might ask (or demand) that the party pass a message to the
+governor for him in exchange for his help. He says his people are tired
+of the local police harassing them just because a few of the city’s nobles
+don’t like being made fun of in tavern songs. Worse, some dockers have
+been arrested in the past few weeks because they refused to work six-
+teen hour shifts loading and unloading industrial cargo.
+Grimsley warns that his people are restless. They’re raring for a riot,
+and he’s trying to keep them calm. If Stanfield can’t take some of the
+pressure off them, Grimsley fears there’ll be blood in the streets. This
+isn’t a concern in the course of this adventure, but the problem rears its
+head again in Adventure Two, The Dying Skyseer.
+If the PCs deliver the message to the governor, they’ll earn the sailor’s
+respect, perhaps even get an invite to a street party a few days hence in a
+dockside neighborhood. If the party wrongs Grimsley, they win admira-
+tion from the police, but for the rest of the campaign they’ll have a hard
+time getting anywhere in the city in a hurry if they have to go by boat, as
+sailors carry their leader’s grudge and do their best to obstruct the PCs.)

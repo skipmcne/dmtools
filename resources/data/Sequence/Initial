@@ -1,0 +1,6 @@
+# The setup.
+# objective of this sequence is to communicate the situation the character is being asked to change
+# start with Settings
+# seeds need to refernce scenes eg,(dialog, quest giver)
+(:random Setting-General)
+(:random Setting-Specific)

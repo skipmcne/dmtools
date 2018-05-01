@@ -1,0 +1,19 @@
+;;The Caper Hero learns of a great MacGuffin that he desperately wants or needs to find, and sets out to steal it, often with companions.
+(Precondition (:hero (is (:action :searching)  :MacGuffin)))
+(valid-goal ("Gain Money" "Gain Power" Retrieve))
+
+;;(id (type previous success failure))
+
+(00 (Sequence nil 01 nil) "Initial" "The setup")
+(01 (Sequence nil 02 nil) "The Hook" "(random Hook)")
+(02 (Sequence nil 03 nil) "Reconnaissance" ":hero or the :villain learns about the :MacGuffin.")
+(03 (Sequence nil 04 nil) "Delivery"  ":hero  discovers information.")
+(04 (Sequence nil 05 nil) "Meditation"  " :hero figures out a plan and get ready to set out on their quest.")
+(05 (Sequence nil 06 nil) "Getting the gang together"  "The :hero assembles a team to perform the caper")
+(06 (Sequence nil 07 nil) "Preparation"  ":team prepares for the caper")
+(07 (Action nil 08 nil) "Beginning counteraction"  ":team encounters difficulty, something goes wrong.")
+(08 (Sequence nil 09 nil) "Begin the Heist"  ":team plays their parts ")
+(09 (Sequence nil 10 nil) "Reaction"  ":villian reacts, outsmarts, outfights or finds a way around the :team's actions.")
+(10 (Sequence nil 11 nil) "Proven Right"  ":hero has proven too smart for the :villian ")
+(11 (Sequence nil nil nil) "The Return"  "Aftermath.")
+(18 (Sequence [] nil nil) "Defeated" "The hero comes home and ...")

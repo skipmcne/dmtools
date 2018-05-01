@@ -1,0 +1,67 @@
+An ambitious tiefling in her late 20s, Lya is the niece of Han Jierre, the Sovereign of
+Danor (her father is Han’s brother). She graduated top of her class from the prestigious
+academy of war, the Jierre Sciens d’Arms, and many students of other war colleges
+have read her thesis, Field Study of Melee Effectiveness and Foe Debilitation through
+Focused Limb Severance Techniques Contrasted with Mainstream Opportunistic
+Techniques, which she wrote near the end of the last Yerasol War.
+
+Despite her youth, she was awarded the position of Minister of
+Outsiders, giving her great leeway to travel and make alliances. For
+the past three years she has worked with King Aodhan to keep the
+peace between their two nations, and as they began making plans
+
+Three Towers
+Puzzle/Social. Real-Time. Level 1.
+The wits of the PCs are tested by the cunning Lya Jierre.
+Assistant Inspector Delft is not alone in his office. He tells the PCs
+to sit, then introduces them to the “Minister of Outsiders” from Danor,
+Lya Jierre. She’s dressed in a rich formal coat of red and purple, which
+is tailored to give her a lot of freedom of movement—fancy looking yet
+suitable for a sword fight.
+And indeed she has a sword at her hip; it looks like a rapier, but
+has some tiny mechanical device attached at the guard. The sheath is
+thicker than one would expect for a rapier. In the unlikely event the PCs
+get a glimpse, the blade’s edge consists of a thin sharpened wire which
+works something like a razor chainsaw when the sword’s mechanism is
+activated. The weapon is an arcanotechnological marvel, a rarity and
+mark of great prestige among Danorans.
+Without explaining why she’s here, she directs the PCs’ attention to a
+strange collection of items on Delft’s desk.
+There are three ivory “towers,” each three inches tall with a steel plate on its
+base. Next are three stone rings—one red, one green, and one blue—each just
+slightly larger in diameter than the towers. Each ring has three strands of thread
+clipped to it, and each of the nine strands ends in a small silvery magnet, which 
+can stick to the bases of the towers.
+Lya Jierre says, “The three towers are about to be attacked. They must be
+reinforced by magic that flows like water from three portals—fire mana is red,
+earth is green, water is blue. The wires are canals through which the mana flows.
+But if the mana streams cross, they’ll destroy their respective portals. How do
+you arrange the portals, towers, and streams of mana so that each tower gets all
+three types of magic, without any of the streams crossing?”
+for a formal alliance, she accepted the king’s offer of marriage as a symbolic union.
+
+Secretly, she is also a tier-four member of the Obscurati’s Golden
+Cell, tasked with recruiting archaeologists and miners around Lanjyr to seek out ancient seals like the one on Axis Island. She merely
+thinks this is part of a scientific endeavor to better understand the nature of the planes. During the course of this adventure, however,
+the leadership of Golden Cell are all slain when Duchess Ethelyn of Shale attacks the island.
+Lya is not aware how important the operations on the island are until after this adventure, when she is contacted by the ultimate head
+of the conspiracy and promoted to leader of Golden Cell. Lya should be portrayed as a complex character with competing motivations.
+Though she gets involved with Risur out of a desire to gain great political power, she does so with no malice. After she is promoted within
+the Obscurati, she sees a chance for a more meaningful and lasting peace, but to reach that goal she must tell ever more elaborate lies.
+
+
+(Char :Mathwyn
+  (Describe "a young tiefling in her early 20's, her complexion is fair, with long brown hair, cascading down from her brow, her two horns stand prominently upon her brow.
+    The first thing that strikes you is her manner, it speaks of many years of education, both social and formal.  She moves with the grace and precision of a fencer, and stands with the determination of someone who has had years of posture training. 
+   She’s dressed in a rich formal coat of red and purple, which is tailored to give her a lot of freedom of movement—fancy looking yet gusseted, ideal for a sword fight.
+   beneath the coat, there is a pink crevat, and a pair of riding trousers.  her feet are shod in a pair of riding boots, implying both, that she has pending travel, and that she considers any dishevelment to be of no signifigance before you. (she's out of your leage)
+And indeed she has a sword at her hip; it looks like a rapier, but has some tiny mechanical device attached at the guard. The sheath is thicker than one would expect for a rapier.")
+  (Greet (say "Ah! "))
+  (AskedAboutNPC 
+	  	(:Others (say "Well, they don’t come to town much, but [make up an outrageous rumor].")
+	)
+	(AskLocalKnowledge
+		(say "")
+	)
+
+)

@@ -1,0 +1,36 @@
+;Olvar Terrasim, lay priest of Amanuator
+[A3]
+;May the sun shine upon you this day!
+;Olvar is an old man, white haired with teeth failing, though
+;still spry enough to minister to his flock. He came to the
+;priestly profession late, having been a farmer in his youth,
+;and took over at the death of the old pastor.
+
+
+(Char :Olvar
+  (Describe "an old man, white haired with teeth failing, though still spry enough to minister to his flock.")
+  (Greet (say "May the sun shine upon you this day!"))
+  (AskAboutNPC 
+  	(:Dorn (say "Great wisdom hides behind that furry face. He keeps a secret or two about the past."))
+  	(:Teren (say "A good friend, if a better friend of gold."))
+  	(:Sybil (say "That hag? Pay her no mind. She is harmless.")
+			((DC 12) (say "Well, yes, we do have a history. But that is dead and buried – best let it lie."))
+			((DC 15) (say "Ah, well, I loved her once. Beautiful she was, but it wasn’t to be."))
+			((DC 18) (say "Truth be told, she loved my brother more than me."))
+			((DC 20) (say "When we were young, Sybil was a true beauty. I loved her, but she was in love with my brother Talwin: Talwin, of course, wanted to be an adventurer, and told Sybil that he would return for her when he’d found his fortune and they could afford to be married. Talwin left home at seventeen, and never returned. It killed our parents. Sybil never warmed to me, and grew cold and distant over the years. I think she still pines for him."))
+			((DC 25) (say "I’d put the idea in Talwin’s head – I wanted him to leave so that I could have Sybil for myself. I’m still paying penance for that – I’m sure that’s why Amanuator doesn’t bless me with his miracles. Reynor: A strong soul. I can sense he’s done Amanuator’s work in his time.")
+  	(:Mathwyn (say "A fine woman, if a bit of a blather. Spends more time watching the neighbors than watching the store. Though I’d only believe half of her tales."))
+			((DC 14) (say "I do wish she would find a good man to take her attention."))
+			((DC 15) (say "She’s trying to marry off he daughter, Jezebel."))
+  	(:Marwin (say "‘Twould be nicer if he’d attend a few more services."))
+  	(:Geral (say "A quiet man, but harmless. He serves Amanuator well by bringing succor to the beasts."))
+  	(:Others (say "Good gentlefolk all."))
+	)
+	(AskLocalKnowledge
+		(DC 10) (say "Wise folk avoid the Dark Road to the east.")
+		(DC 15) (say "Many a youth has run off to explore the monument called the Lost Tomb, up the valley to the east. Most return, having only looked at the outside.")
+		(DC 18) (say "Beware the Tower Perilous, north by west three days in the Feywood. ‘Tis the home of a most vile necromancer!")
+	)
+)
+
+  	

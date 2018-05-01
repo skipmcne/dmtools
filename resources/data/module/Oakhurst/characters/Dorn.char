@@ -1,0 +1,47 @@
+;Dorn Ironarm, smith (dwarf) [A5]
+; Naught that’s strong that doesn’t get stronger under the hammer.
+
+;Dorn is a sturdy, bald-headed, black bearded taciturn dwarf
+;smith who has made Oakhurst his home for forty years.
+;He’s been a smith all his life, though he longs for greater
+;recognition. He counts among his ancestors the great
+;dwarven smith Duergeddin, of whom he is quite proud,
+;though it takes quite a bit to get him to talk about it. His ale
+;is fine, though it takes some smooth talking (Diplomacy DC
+;28) or a great favor (a Duergeddin weapon, information
+;about the location of Khundrakkar, or information about
+;the whereabouts of Mountain Home) to get him to part
+;with more than a mug.
+
+
+(char :dorn
+  (describe "a sturdy, bald-headed, black bearded taciturn dwarf")
+  (greet (say "Ho, Neighbor? Anything you need today?"))
+  (askAboutNPC 
+		(:Teren  (say  "That blowhard. Talk yer ear off while he’s filching yer coppers. But he puts a good enough face on, and he’s honorable."))
+		(:Olvar  (say "He’s a priest. Need I say more? Hasn’t got the sense to worship Moradin, but then, what human does?"))
+		(:Sybil  (say "More to that one than meets the eye, methinks."))
+		(:Reynor  (say "Now there’s the only human here I wouldn’t underestimate."))
+		(:Mathwyn (say "If that woman’d pound a hammer the way she flaps her gums, I’d be out of work!"))
+		(:Other   (say "*shrug* They bring me enough work, though they seldom appreciate the value of good dwarf-made steel."))
+	)
+	(askLocalKnowledge
+		(say ("smith"?) 0 "I've been a smith all my life."))
+		(say ("smith"?) 1 "aye, I could make something like that for ye")
+		(say ("smith"?) 2 "if you let me finish repairing this plough and I'll get right to it")
+		(say ("smith"?) 3 "you want a rush job? well, everyone wants a rush job, If I don't finish this plough, planting will be late")
+		(say (ale? & !dwarf?)0 "Ale? Sure! try the inn.")
+		(say (ale?& !dwarf? & (DC19)) 0 "oh I've been known to brew a pint or two")
+		(say (ale? & dwarf?) 0 "oh, aye you could try the inn, but if you come back after I've closed up I'm about to tap a cask of my finest, I could part with a dram, given enough encouragement")
+		(say ("Stone Table"?) "DIRECTIONS TO STONE TABLE")
+		(say (Duergeddin? (DC 12)?) "Duergeddin was the finest dwarf smith ever to live. Makes me best work look like child’s play."))
+		(say (Duergeddin? (DC 14)?) "Somewhere away to the east lies the home of my forefathers, the Ironarm clan, called Mountain Home. I’ve never seen it meself, lost these many years it is."))
+		(say (Duergeddin? (DC 15)?) (say "They say Duergeddin built himself a forge in the mountains, in a fortress called Khundrakkar, but no dwarf alive has seen it."))
+		(say (Duergeddin? (DC 18)?) (say "The key to Khundrakkar, they say, is a single strong tooth. Now that’s a riddle if I’ve heard one."))  
+		(say (Duergeddin? (DC 20)?) (say "There are clues, they say to the location of Mountain Home."))
+		(say (Duergeddin? (DC 22)?) (say "Legend says the route to Mountain Home starts from the Stone Table."))
+		(say (Duergeddin? (DC 25)?) (say "Head southeast from Stone Table until you reach the Giant’s Chair, then east to the Giant’s Hammer. No, of course I don’t know what it means, or I’d have found it myself!"))
+	)
+	
+)
+

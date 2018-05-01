@@ -1,0 +1,40 @@
+;Teren Oakhurst
+; mayor 
+; proprietor of Teren’s Provisions
+
+;
+; Teren is a tall, hale, middle-aged man with a bushy brown
+; beard and slight pot belly. A wealthy and jovial man, he is
+; the mayor of Oakhurst, its leading merchant, and unofficial
+; welcoming party. He is easy to talk to and quite open,
+; though he regularly drops hints of things his potential
+; customers might need that he just happens to have in stock.
+; A widower, Teren would like to marry Mathwyn, though
+; more because he loves the idea of merging her inn with his
+; store than because he loves her.
+;
+
+(Char :Teren
+  (Describe "a tall, hale, middle-aged man with a bushy brown beard and slight pot belly.")
+  (Greet (say "Ho, Neighbor? Anything you need today?"))
+  (AskedAboutNPC 
+  	(:Dorn (say "Good to have around that Dorn. Knows quite a bit of history. Makes the finest ale for leagues. ")"
+	  	   ((DC 12) (say "Wish he’d sell me some of that ale – I can’t get him to part with any!")))
+	(:Olvar (say "Not a bad one as priests go. Been here for longer than anyone can remember."))
+	(:Sybil (say "That witch. Can’t trust her, but I can’t say I’ve ever seen her do much more than give anyone the evil eye."))
+	(:Reynor (say "Tough bugger. Showed up twenty years back with a bunch of dwarves and built that mill, he did. Good thing, too – whole townhas prospered since. Doesn’t talk about his past though."))
+	(:Mathwyn (say "A fine woman, fine woman. Shame she’s spending so much time alone. Woman like that needs a man to look out after her.")
+				((DC 12) (say "Yes, I admit to a bit of a crush on her."))
+				((DC 12) (say "To be truthful, I’ve proposed marriage, but she turned me down. I don’t know why."))
+				((DC 25) (say "Well, it’s more the inn than her, but still, she’s a decent woman.")))
+	(:Geral (say "Bit of an odd duck, Geral. Likes animals more than people. But we couldn’t get by without him."))
+	(:Able  (say "A bit above himself, but he does good work. I’m watching his place while he is out of town."))
+	(:Marwin (say "A man that suspicious has to be hiding something, don’t you think? And that wife of his!"))
+	(:Other  (say "Ah, good stout farm folk, that [name]!"))
+	)
+	(AskedLocalKnowledge
+		("The roads are usually safe.")
+		((DC 10) (say "I hear there’s gold and jewels to be found in the mountains to the west, but the elves of the Feywood keep the secret to themselves."))
+		((DC 12) (say "And no one has ever found the home of the dwarves in the mountains to the east!"))
+	)
+)

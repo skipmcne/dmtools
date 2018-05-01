@@ -1,0 +1,169 @@
+;;http://www.peachpit.com/articles/article.aspx?p=2272529&seqNum=7
+;;http://kierenmacmillan.info/wp-content/uploads/2014/02/FTE_4pgs.pdf?f8f128
+;;http://www.ifc.com/2011/11/top-15-movie-interrogation-scenes
+;;http://www.ncsarts.org/farquaad-gingy.pdf
+;;https://genius.com/Christopher-nolan-the-dark-knight-interrogation-scene-annotated
+;;https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0ahUKEwjZ-6--kPrUAhWLFj4KHStPDtUQFghQMAY&url=https%3A%2F%2Fgointothestory.blcklst.com%2Fpulp-fiction-interrogation-scene-ba0c70363c1f&usg=AFQjCNFRMFBjFzi59edz_MDd8ZQHP1dA9g&cad=rja
+;;http://writethatscene.com/how-to-write-an-interrogation-scene/
+
+
+;;Interrogations are meant to exploit a person’s weaknesses with dominance, control, and consequence. 
+;;The goal of an interrogation is to always get a confession. 
+;;Keep this in mind when writing your scene.
+
+;; 1 Your detective should either try getting on the suspect’s good side 
+;; by letting the suspect know he/she can trust them,
+;; and voicing that they are there to help 
+;; and the only way for them to do that is if
+;; the suspect is completely honest. In other words, be the “good cop”.
+
+ ;; 2 play the “bad cop” and 
+ ;;  intimidate the suspect into confession 
+ ;;   by getting in their face,
+ ;;   scaring them with the facts of what they are facing,
+ ;;   and even lying about evidence to get a confession.
+
+
+
+  ;I. If the suspect is innocent,
+  ; or if you want them to appear that way to the reader,
+   ;then they should seem confused and horrified at what is taking place.
+   ; Another key of innocence is
+    ;nervousness because they didn’t do what the detectives are claiming they did.
+    ; The suspect could 
+    ;even show fear for their own lives or for someone they know.
+
+ ;II. If the suspect is guilty it is ideal to make them jittery and more nervous. 
+ ; Maybe start fidgeting, licking his/her lips, or running their hand through his/her hair. 
+ ; This shows that they are lying. 
+ ; You can add in stuttering, rewording their statements, and not being clear.
+
+ ;III. Or, you can add more suspense by making the detectives know the suspect is guilty,
+ ; and the suspect knows he knows.
+ ; If you do go down this path with your scene,
+ ; the suspect would be more believable when 
+ ;  he shows cockiness,
+ ;  find humor in the situation,
+ ;  mock the detectives,
+ ;  and/or not show any sympathy for the crime committed.
+
+
+  ;  I.        The detective will present the facts of the case and the evidence against the suspect.
+
+  ; II.       The detective could create a story for why the suspect committed the crime.
+
+  ; III.    The detective will cut off the suspect when he/she begins to deny their involvement.
+
+  ; IV.       The detective could encourage the suspect to talk about the crime.
+
+
+  ; I.     Anyone can be frightening in situations like these. By now, the person being interrogated ;is most likely scared or at least stressed. What makes matters worse for them, is that sometimes ;they are deprived of sleep, water, or food to weaken them or they’ll go through long waits.
+
+ ;II.   If the person being interrogated is not at their full strength or attention, the interrogator ;will have a greater effect mentally. Thus, the detective can and will use methods such as psychology.
+
+
+
+    Two of the most commonly used techniques are the psychological, and the logic and reasoning techniques.
+    »A.The basic emotions and motivations most commonly associated with criminal acts are hate, fear, love, and desire for gain.
+
+ I.       Psychological approach. This approach is designed to focus the thoughts and emotions of the suspect on the moral aspects of the crime and thus bring about a realization that a wrong has been committed. One ways your detective can do this: Discussing the moral seriousness of the offense by emphasizing the effects of his or her acts on the suspect’s family or close relatives.
+
+ II.      The suspect may tend to become emotional when discussing a mother or father; a childhood and childhood associations; early moral and religious training; and persons held in very high esteem. Often, the emotional appeal of some person or personal relationship increases in intensity with the passage of time and with the distance separating the suspect from a former environment.
+
+By emphasizing the contrast between a present and a former way of life, you may intensify the suspect’s emotional response, especially when he or she has deserted a family, has become orphaned or otherwise separated from a family, or when the way of life prescribed in early moral and religious training has been forsaken.
+
+ III.    The psychological approach is often successful with a young person and with a first offender who has not had time to become a hardened criminal or to develop a thinking pattern typical of a hardened criminal.
+
+
+
+    »B.Have your detective inquiry into the suspect’s thinking, feeling, and experience in order to touch upon some basic weakness and thereby induce in the suspect a genuine desire to talk.
+
+ I.          Logic and reasoning. The habitual criminal who feels no sense of wrongdoing in having committed a crime must normally be convinced that guilt can be easily established or is already established by testimony or available evidence.
+
+ II.        The interrogator should point out to the suspect the pointlessness of denying guilt. The suspect should be confronted at every turn with testimony and evidence to refute their so-called alibi. Make it a point that his or her guilt is definitely a matter against which no lies will defend.
+
+ Part Four
+
+    The psychological manipulation begins before the interrogator even opens his mouth. The physical layout of an interrogation room is designed to maximize a suspect’s discomfort and sense of powerlessness from the moment he steps inside.
+    »A. Let it be known how comfortable that place is.
+
+ I.           Is it too tight in there? Is it too big? Not private enough?  Or is it very comfortable? What makes it uncomfortable or comfortable? Is that couch uncomfortable because it’s old? How about the lightening? Can the characters barely see each other, or is it perfect?
+
+ II.         Usually, it is a small, soundproof room with only three chairs (two for detectives, one for the suspect) and a desk, with nothing on the walls. This creates a sense of exposure, unfamiliarity and isolation, heightening the suspect’s “get me out of this place” feeling throughout the interrogation
+
+ III.     The suspect should be seated in an uncomfortable chair, out of reach of any controls like light switches or thermostats, furthering his discomfort and setting up a feeling of dependence. A one-way mirror is an ideal addition to the room, because it increases the suspect’s anxiety and allows other detectives to watch the process and help the interrogator figure out which techniques are working and which aren’t.
+
+
+    »B.The next step is to turn the questioning to the task at hand.
+
+ I.          The detective will ask basic questions about the crime and compare the suspect’s reactions to the starting point to determine if the suspect is being truthful or deceptive.
+
+ II.     If the interrogator asks the suspect where he was the night of the crime and he answers truthfully, he’ll be remembering, so his eyes may move to the right; if he’s making up an alibi, he’s thinking, so his eyes might move to the left. If the interrogator determines that the suspect’s reactions indicate deception, and all other evidence points to guilt, the interrogation of a guilty suspect begins.
+
+
+ Part Five
+
+(Use this entire part if you want to extend your scene, otherwise skip to option 9: the confession)
+
+    The Reid technique’s blueprint of how to make a successful interrogation.
+    »	A.Nine steps of a usual ordinary interrogation?
+
+ I.   1. Confrontation:
+
+Where the detective presents the facts of the case and informs the suspect of the evidence against him. This evidence might be real, or it might be made up. The detective typically states in a confident manner that the suspect is involved in the crime. The suspect’s stress level starts increasing, and the interrogator may move around the room and invade the suspect’s personal space to increase the discomfort. If the suspect starts fidgeting, licking his lips and or grooming himself (running his hand through his hair, for instance), the detective takes these as indicators of deception and knows he’s on the right track.
+
+          Example 9:   (No Example Added- but you can add one for your scene)
+ 
+ 
+ II.    2. Theme development:
+
+The interrogator creates a story about why the suspect committed the crime. When developing themes, the interrogator speaks in a soft, soothing voice to appear non-threatening and to lull the suspect into a false sense of security. Theme development is about looking through the eyes of the suspect to figure out why he did it, why he’d like to think he did it and what type of excuse might make him admit he did it. The detective then observes the suspect to see if he likes the theme/made-up story. Is the suspect paying closer attention than before? Nodding his head? If so, the detective will continue to develop that theme; if not, he’ll pick a new theme and start over.
+
+          Example 10:   (No Example Added- but you can add one for your scene)
+
+ 
+
+ III.     3. Stopping denials:
+
+Letting the suspect deny his guilt will increase his confidence, so the detective tries to interrupt all denials, sometimes telling the suspect it’ll be his turn to talk in a moment, but right now, he needs to listen. From the start of the interrogation, the detective watches for denials and stops the suspect before he can voice them. In addition to keeping the suspect’s confidence low, stopping denials also helps quiet the suspect so he doesn’t have a chance to ask for a lawyer. If there are no denials during theme development, the detective takes this as a positive indicator of guilt.
+
+     Example 11:   (No Example Added- but you can add one for your scene)
+
+ 
+
+ IV.      4. Overcoming objections:
+
+Once the interrogator has fully developed a theme that the suspect can relate to, the suspect may offer logic-based objections as opposed to simple denials, like “I could never rape somebody — my sister was raped and I saw how much pain it caused. I would never do that to someone.” The detective handles these differently than he does denials, because these objections can give him information to turn around and use against the suspect. The interrogator might say something like, “See, that’s good, you’re telling me you would never plan this, that it was out of your control. You care about women like your sister — it was just a one-time mistake, not a recurring thing.” If the detective does his job right, an objection ends up looking more like an admission of guilt.
+
+Example 12:   (No Example Added- but you can add one for your scene)
+ 
+
+    »B.Part Two of the Nine Part Process.
+
+ I.        5. Getting the suspect’s attention:
+
+At this point, the suspect should be frustrated and unsure of himself. He may be looking for someone to help him escape the situation. The interrogator tries to capitalize on that insecurity by pretending to be the suspect’s ally. He’ll try to appear even more sincere in his continued theme development, and he may get physically closer to the suspect to make it harder for the suspect to detach from the situation. The interrogator may offer physical gestures of camaraderie and concern, such as touching the suspect’s shoulder or patting his back.
+
+  
+II.      6. The suspect loses resolve:
+
+If the suspect’s body language indicates surrender — his head in his hands, his elbows on his knees, his shoulders hunched — the interrogator seizes the opportunity to start leading the suspect into confession. He’ll start transitioning from theme development to motive alternatives that force the suspect to choose a reason why he committed the crime. At this stage, the interrogator makes every effort to establish eye contact with the suspect to increase the suspect’s stress level and desire to escape. If, at this point, the suspect cries, the detective takes this as a positive indicator of guilt.
+
+Example 13:   (No Example Added- but you can add one for your scene)
+ 
+ 
+ III.    7. Alternatives:
+
+The interrogator offers two contrasting motives for some aspect of the crime, sometimes beginning with a minor aspect so it’s less threatening to the suspect. One alternative is socially acceptable (“It was a crime of passion”), and the other is morally repugnant (“You killed her for the money”). The detective builds up the contrast between the two alternatives until the suspect gives an indicator of choosing one, like a nod of the head or increased signs of surrender. Then, the detective speeds things up.
+
+Example 14:   (No Example Added- but you can add one for your scene)
+ 
+ I.   8. Bringing the suspect into the conversation:
+
+Once the suspect chooses an alternative, the confession has begun. The interrogator encourages the suspect to talk about the crime and arranges for at least two people to witness the confession. One may be the second detective in room, and another may be brought in for the purpose of forcing the suspect to confess to a new detective — having to confess to a new person increases the suspect’s stress level and his desire to just sign a statement and get out of there. Bringing a new person into the room also forces the suspect to reassert his socially acceptable reason for the crime, reinforcing the idea that the confession is a done deal.
+
+          Example 15:   (No Example Added- but you can add one for your scene)
+  
+ II.        9. The confession:
+
+The final stage of an interrogation is all about getting the confession admitted at trial. The interrogator will have the suspect write out his confession or state it on videotape. The suspect is usually willing to do anything at this point to escape the interrogation. The suspect confirms that his confession is voluntary, not coerced, and signs the statement in front of witnesses.

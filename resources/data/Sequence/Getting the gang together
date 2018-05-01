@@ -1,0 +1,11 @@
+(05 (Sequence nil 06 nil) "Getting the gang together"  "The :hero assembles a team to perform the caper")
+;hero identifies and enlists a team 
+;typically there are one or two holdouts who require additional convincing
+;all convincing is done as a function of the character motivation
+;sometimes they have hidden motivations that require additional actions
+
+; for each character in final party
+(Scene (introduction) :character)
+;some need convincing
+(Scene (dialog convince) :character )
+

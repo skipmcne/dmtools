@@ -1,0 +1,60 @@
+The Hypertext d20 SRD - the ultimate d20 system referenceSite Search
+
+Custom Search
+Search
+Hypertext d20 SRD menu icon Extras icon d20 System menu icon BoLS menu icon
+Random Adventure Generator
+
+Theme	Horror
+This type of adventure is designed to scare both the characters and the players. Just having a monster attack is not enough for a horror theme; the monster must first frighten the characters.
+Goal	Escape
+Early in the adventure, the heroes are captured. The remainder of the adventure consists of them learning enough so that they can escape. They have to get to know their fellow prisoners, learn the prison's routine, inventory their possessions, acquire other possessions they need, plan an escape, and execute it.
+Story Hook	Dying Delivery
+On some occassion when the hero is out wandering the streets or is otherwise all alone, a dying man bumbs into him, hands him something, says a few words, and dies.
+Plot	Geographic Progression
+This is the simplest sort of adventure plot. The heroes have an area to investigate or travel through; they have encounters based on where they are. For instance, the traditional dungeon, where monsters are tied to specific rooms or areas. Or, if the heroes are travelling along a narrow valley or through an enchanted forest, they might suffer ambushes and other encounters fixed to various points along their travel plan. The plot, then, is getting to the villain by surviving the intervening obstacle encounters.
+Climax	Divine Retribution
+Here, the heroes' goal has been to alert the gods that the Master Villain threatens them or their plans; in the last scenes of the adventure, as our heroes face an overwhelming enemy force, the gods bring down their divine retribution on the villain, causing a massive earthquake, tidal wave, lightning storm, or flood of monsters. This is all well and good, but the heroes are too close and must escape the fringe effects of this awesome disaster. A variant on this is the Natural Disaster. No gods are actually involved, but the Master Villain has been tampering with the delicate forces of nature. He may, for instance, have been powering his master spell with the energies of a volcano. When the heroes attack the scene of his spellcasting, the spell goes out of control and so does the volcano. The villain is consumed in the eruption and the heroes must escape or be consumed themselves.
+General Setting	Hero's Home Town
+The action takes the heroes back to the home territory of one of them. Note that this usually means that this hero's family or old friends are deeply involved in the adventure.
+Specific Setting I	Caves of Magical Folk
+These can be either beautiful, glittering homes of gorgeous magical peoples, or the dank and terrifying lairs of horrible monsters.
+Specific Setting II	Catacombs
+These can be catacombs beneath a living city or a ruined one; they can be long-forgotten or still in use.
+Master Villain	Corruptor
+The Corruptor is the villain who wants to make something nasty out of something that is currently nice. He may be working on a small scale -- i.e., wish to corrupt one character or a few characters, particularly PCs and their favorite NPCs. Alternatively, he may be a big-scale villain trying to change an entire city or nation into a jaded, debased pit of sin, hatred and death.
+Minor Villain I	Chief Assassin
+The Chief Assassin is the favorite killer of the Master Villain. The Assassin works mostly in the field, first killing witnesses who might prove harmful to his master, then zeroing in on the player-characters. He usually meets his end before the adventure's climax, but he may taken one of the heroes down with him.
+Minor Villain II	Childhood Friend with a Dark Secret
+This Minor Villain is like the character of the same name from the Allies and Neutrals section. However, the heroes find out early on that he's really working for the Master Villain. He may not wish to be helping the villains; his family may be held hostage, or he may just be too frightened of the villain or otherwise weak-willed to refuse. Alternatively, he could actually be evil now.
+Ally/Neutral	Talkative Barkeep
+This classic encounter is the garrulous innkeeper who has information the characters want; trouble is, they'll have to bribe him to get it, or agree to stay at his inn, or buy a lavish meal, or listen to his incessant stories about his career in the army, or whatever.
+Monster Encounter	Beast Amok
+Some time when the heroes are in a village or city, an animal, probably an otherwise tame or captured beast, is set loose by the villain's minions or driven mad by the Master Villain. The beast goes berserk in the crowds; if the heroes aren't inclined to capture or kill it, it goes after them.
+Character Encounter	Bureaucrat
+Some time in their adventure, the heroes must deal with the local government and run into that most horrible of nuisance monsters, the bureaucrat and his red-tape dispenser. The heroes don't have the right forms. When they have the right forms, they forgot to fill them out in triplicate. And so on.
+Deathtrap	Pit and the Pendulum
+Actually, we're applying this term to any of many time-delay deathtraps. In this sort of trap, the villains capture the heroes and place them in a trap which will soon kill them -- it operates on a delay, often based on a timing device or a burning fuse.
+Chase	Horseback
+This is a relatively short chase -- it only needs to go on for a mile or so before even the best horses are winded. If it goes on longer than that, the horses may collapse and perhaps die.
+Omen/Prophesy	Birthmark
+One of the heroes has a birthmark that pertains to the adventure in some way. He may have a birthmark identical to some NPC -- for instance, some person endangered by the Master Villain. This mystery can give the hero his reason to become involved. Alternatively, his birthmark may mark him as a hero fulfilling some ancient prophecy.
+Secret Weakness	Holy Symbol
+The villain may have the traditional weakness to a specific holy symbol -- but don't choose just an ordinary one. It may be a holly symbol no longer used by the church, or may be some forgotten variation of the current symbol. (For instance, the cross may not work, but a variation -- such as the Roman cross -- might; alternatively, it might have to be a holy symbol which has undergone some unfamiliar ritual.)
+Special Condition	Magic Doesn't Work Right
+If the adventure is taking place on an alternate plane, then that plane's magic works oddly or not at all. (A spellcaster will find that just making himself useful is a challenge when none of his spells works.)
+Moral Quandry	Respect Quandry
+This is much like the Ally Quandry, only at a greater distance. The heroes have been utilizing the aid of two (or more) powerful NPC allies. Now, in the course of the adventure, the heroes come across a task which can be accomplished in one of two ways -- say, through military intervention or by esoteric magic. The problem is, the NPC allies are arguing for different choices, and the one whom the heores choose against will no longer aid them.
+Red Herring	Lying Rumor
+This is the worst and most useful type of red herring -- the interesting rumor which just happens to be false. In adventures of this sort, the best Lying Rumor concerns the Master Villain; it gives the heroes some "important" information about him which later turns out to be useless.
+Cruel Trick	NPC Turns Traitor
+He may alert he enemy when the heroes are planning a raid; he may steal the artifact and take it to the villain; he may stab a hero or important NPC in the back (literally) before departing.
+Based upon tables from the Dungeon Master's Design Kit by TSR, Inc.
+
+
+The Hypertext d20 SRDTM is owned by BoLS Interactive LLC.
+
+‘d20 System’ and the ‘d20 System’ logo are trademarks of Wizards of the Coast, Inc.
+and are used according to the terms of the d20 System License version 6.0.
+A copy of this License can be found at www.wizards.com/d20.
+

@@ -1,0 +1,108 @@
+; Mathwyn Freiland, proprietress of the
+; Sleeping Dragon Inn [A2]
+; Daughter: Jezebel (Would you like potatoes wit that? 
+; 				   [DC15] A man? I wish.)
+; Barmaid: Lassie (Like, fer shure! 
+; 				[DC15] I’m NOT that kind of girl!)
+; Barmaid:Laurel (Really? You’re so strong/smart/clever!
+; 				 I’m just a simple village girl! 
+; 				 [DC15] Like a tumble? Meet me in the hayloft at midnight, and bring gold.)
+; Handyman: Jeb (halfling) (YessirRightawaysir!)
+; Ah, well, make yourselves comfortable. I’ll pour you a glass. Now, have you heard...
+
+; Mathwyn is a large-hipped widow who is the town busybody as well as being the proprietress of the inn, which she runs effectively if not entirely efficiently – being the only game in town, so to speak, it pays for itself. She keeps a close eye on all about the area, and has a weather eye out for a likely match for her daughter (a shy mousy brunette named Jezebel), while trying to keep unwelcome hands off of her two barmaids (tall, blonde, buxom but brainless Lassie, and petite, flirty, dark-haired Laurel).
+
+(Char :Mathwyn
+  (Describe "a middle aged a large-hipped woman with a brown tresses.")
+  (Greet (say "Ah! well, make yourselves comfortable. I’ll pour you a glass. Now, have you heard..."))
+  (AskedAboutNPC 
+	  	(:Dorn (say "Ah, the only true gentleman in town. Good with a hammer, but better with a brew. You know what they say about dwarven men with hammers, right?")) 
+	  	(:Olvar (say "What a sweet old man. Though just the other night I heard him crying. What do you suppose that’s about?")
+			((DC 12) (say "And don’t tell anyone I told you ... but he keeps a bottle behind the altar.")
+			((DC 15) (say "I see him get in rights with Sybil regular like. There’s some history there, I know it.")
+	  	(:Sybil (say "Oh, she’s a fright, she is. Cursed poor Lassie when she was young for making fun of her, and now the poor girl is a few courses short of a meal if you know what I mean. ")
+			((DC 12) (say "And don’t tell anyone I told you, but she can’t but put a burr under Olvar’s saddle every chance she gets.")
+	  	(:Reynor (say "That one I’d trust with my life, though I don’t know why. He keeps many secrets.")
+			((DC 18) (say "There’s a room on the top floor of the mill he never lets anyone see.")
+	  	(:Teren (say "Now that man, have to keep an eye one him.") 
+			((DC 12) (say "He’s sweet on me, if you must know.")
+			((DC 15) (say "And he’s not a bad catch himself, mind. The money we could make by combining his business with mine! He’s decent looking enough, and has a head for business.")
+			((DC 18) (say "I’d marry him soon enough, but I have to see to poor Jezebel first. She’s just so shy ...")
+	  	(:Marwin (say "Now that man’s a pill, and no mistake. How his wife puts up with him.")
+			((DC 18) (say "Though I did see him sneaking out to a grove one night ... meeting Able Marchan’s wife!")
+			((DC 20) (say "‘Course, Kristen is cuckolding him with Able Marchan, so turnabout’s fair play! Ha ha!")
+	  	(:Able (say "Bit pinched, and obsessed with his station. But then every tailor seeks to rise!")
+			((DC 20) (say "And he’s stepping out on his wife, with Hight Marwin’s Kristen no less.")
+	  	(:Geral (say "An odd duck, that one. Wonder if he’s funny. He’s pretty, but don’t show no interest in girls, just animals.")
+			((DC 15) (say "Don’t tell anyone I told you, but I once saw him going through the packs of caravan animals!")
+	  	(:Korvald (say "So nice to have a young nobleman in town! He’d be perfect for Jezebel.")
+			((DC 12) (say "Though he steals kisses from Laurel.")
+			((DC 15) (say "He spends far too often playing with his cards. A few have nicked edges.")
+			((DC 20) (say "He cheats outrageously, but then if someone is stupid enough not to notice, they deserve what they get!")
+	  	(:Picard (say "Oh, he drops in now and again. Doesn’t say much, but pays his bills prompt like.")
+			((DC15) (say "I know he travels the Dark Road, and visits the ruins in the Lost Vale.")
+	  	(:Others (say "Well, they don’t come to town much, but [make up an outrageous rumor].")
+	)
+	(AskLocalKnowledge
+			(say "Oh, it’s quite safe I assure you. All those big strapping men from Chronos Keep, come through regular-like with their swords and shiny armor. We just need to sit tight until they return, and they’ll set everything right.")
+	)
+
+)
+
+;Handyman: Jeb (halfling) (YessirRightawaysir!)
+(Char :Jeb
+  (Describe "a halfling with wild red hair. dashing to and fro.")
+  (Greet (say "YessirRightawaysir!"))
+  (AskedAboutNPC 
+	  	(:Other (say "Can't say much about them right now the roof needs shingling!"))
+	)
+	(AskLocalKnowledge
+			(say "too busy patching the fence to worry about someone else's buisness!"))
+)
+
+; petite, flirty, dark-haired Laurel
+;Barmaid:Laurel (Really? You’re so strong/smart/clever!
+;				 I’m just a simple village girl! 
+;				 [DC15] Like a tumble? Meet me in the hayloft at midnight, and bring gold.)
+;
+(Char :Laurel
+  (Describe "a petite barmaid bats her eyes at you and tosses her dark-hair.")
+  (Greet (say "Really? You’re so strong/smart/clever!")
+  ((DC 15) (say "Like a tumble? Meet me in the hayloft at midnight, and bring gold."))
+  (AskedAboutNPC 
+	  	(:Other (say "I’m just a simple village girl!"))
+	)
+	(AskLocalKnowledge
+			(say "I’m just a simple village girl!")
+)
+
+;shy mousy brunette named Jezebel
+;Daughter: Jezebel (Would you like potatoes wit that? 
+;				   [DC15] A man? I wish.)
+(Char :Jezebel
+  (Describe "Jezebel brushes her mousy brown hair back from her eyes with a well floured hand.")
+  (Greet (say "Would you like potatoes wit that?")
+  		 ((DC 15) (say "A man? I wish."))
+   )
+  (AskedAboutNPC 
+	  	(:Other (say "the other villagers? meh, all boring or Old men"))
+   )
+	(AskLocalKnowledge
+			(say "Mother says that there's nothing but trouble on the highway.")
+	)
+)
+
+;tall, blonde, buxom but brainless Lassie
+;Barmaid: Lassie (Like, fer shure! 
+;				[DC15] I’m NOT that kind of girl!)
+;
+(Char :Lassie
+  (Describe "a tall, buxom barmaid tosses her long blond hair back and bounces over to you.")
+  (Greet (say "Like, fer shure!")
+  ((DC 15) (say "I’m NOT that kind of girl!"))
+  (AskedAboutNPC 
+	  	(:Other (say "I’m just a simple village girl!"))
+	)
+	(AskLocalKnowledge
+			(say "I’m just a simple village girl!")
+)

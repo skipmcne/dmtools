@@ -1,0 +1,39 @@
+;Picard, hunter (eladrin ranger 4) [A2]
+;[The eladrin stares back unblinking, head slightly cocked, as if you were some sort of novel bug.]
+;Picard is a huntsman who drops in to Oakhurst from time
+;to time for supplies. Most of his time is spent wandering
+;the Feywood, the Dark Road, and the ruins of the Lost
+;Vale. It’s his personal mission to keep some of the terrors
+;from those areas bottled up – both to protect the farm folk,
+;and to prevent retaliation that would expose what he knows
+;about the ruins of his eladrin ancestors in the Lost Vale,
+;which he wants to remain undisturbed.
+
+
+(Char :Picard
+  (Describe "an eladrin huntsman, sits motionless, staring at you with unblinking eyes.")
+  (Greet (say "Aye, tis all grist for the mill. You lot do any honest work? Not likely. "))
+  (AskedAboutNPC 
+		(:Dorn (say "He’s the only one of this bunch I’d trust to watch my back. Steel is strong, but dwarven honor is stronger!"))
+		(:Olvar (say "I don’t hold much for praying. Man needs to take control of his own fate; gods and demons will be what they may."))
+		(:Teren (say "That one’s looking to land him a rich widow. Haw!"))
+		(:Mathwyn (say "Smarter than she looks, I’ll grant you. Can’t believe half what she says, though."))
+		(:Others (say "Good folk, mostly pay on time & bring the grain in steady."))
+	)
+	(AskedLocalKnowledge
+		(say "You stay close to town and close to the road – it’s safer.")
+		((DC 10) (say "The gnomes of Waymoot are a bit up the road and will take in strangers for the night if you need a safe place."))
+		((DC 12) (say "There’s danger to the west, and more to the east – but being adventurers, you’ll get yourself hip-deep in it."))
+		((DC 15) (say "You want trouble? Well, you might try the ruined keep up in the hills to the east."))
+		((DC 20) (say "Yep, kobolds, goblins, hobgoblins, lizardfolk, and worse here abouts. Luckily they keeps to themselves, but I’ve little enough to fear."))
+		((DC 25) (say "Yes, I was an adventurer once. Got this bum leg fighting subterranean horrors on a far off place called the Isle of Dread. Lost everything I loved there. You learn this now: grab on to what you have; this adventurer’s life is a will o’ wisp and only brings misery!"))	)
+	)
+)
+
+Local knowledge:
+[DC12] Short sighted, short lived humans. How can anyone treat with such mayflies?
+[DC14] There are kobolds about – I saw their tracks this morning.
+[DC16] There’s a ruin in the hills to the east called Crag Keep. Kobolds have been coming and going from there. From the mountain known as Stone Table to the north of there too, where the dragon glass is found.
+[DC18] Down the Dark Road, in a deep ravine, is a ruined citadel sunk into the earth – home of large tribes of kobolds and goblins.
+[DC20] I hear the kobold tribe split in two, and a new clan has formed. The name “Calcryx” means something special to this new tribe, for some reason.
+[DC25] And the ruins of my ancestors lie further down the road. But many are infested by unspeakable horrors – it’s certain death to go there.
