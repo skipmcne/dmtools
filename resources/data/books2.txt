@@ -67,7 +67,7 @@
 “The Tao of Water” - Starts with a note: lava and water is basically the same thing! don't try to use fire spells on it. If you fail to understand this basic, the Tao will forever escape you. This book is written in an old dialect that most people (even magic users) have trouble reading. It occasionally goes on long-winded philosophical tangents.
 “The Tao of Air” - Starts with philosophical musings on how a fickle thing like air is needed for (long-lived) living creatures to breathe. There is a 5% chance of an ancient erotic letter being found loose inside. This book is written in an old dialect that most people (even magic users) have trouble reading. It occasionally goes on long-winded philosophical tangents.
 “The Tao of Fire” - Starts with a strict warning to master at least one of the other 3 elemental books first, because while many people think playing with fire is fun, it's not worth dying over. This book is written in an old dialect that most people (even magic users) have trouble reading. It occasionally goes on long-winded philosophical tangents.
-“The Tao of Life” - This volume is the thickest, but somehow the least complete; it contains many anatomical diagrams, as well as several normative references to The Tao of Death. This book is written in an old dialect that most people (even magic users) have trouble reading. It occasionally goes on long-winded philosophical tangents.
+“The Tao of Life” - This volume is the thickest, but somehow the least complete; it contains many anatomical diagrams, as well as several normative references to The Tao of Death. This book is written in an old dialect that most people (even magic users) have trouble reading. It occasionally goes on long-winded philosophical tangents.40
 “The Tao of Death” - This volume is missing from most sets after a book-burning campaign, but its existence is well known. This book is written in an old dialect that most people (even magic users) have trouble reading. It occasionally goes on long-winded philosophical tangents.
 “The Tao of Secrets” - The existence of this volume is not widely known, and its veracity is debated among scholars; all claimed copies of this volume appear to consist entirely of blank pages, which nobody has ever manage to cast a spell to extract the information out of - thus suspicions that they're fake. But they do appear to be just as old as the other volumes ...
 Lolthlita
@@ -98,3 +98,103 @@ Avatar: The Last Airbender” - A 3 volume set of books in which a young element
 "Gary's Guide to Gathering Gold" - A story about how some guy named Gary wrote a role-playing game called 'Fiends and Fortresses' and made millions of gold selling thousands of copies.
 "Fiends and Fortresses - Player's Handbook" - A book on how the play the popular role-playing game “Fiends and Fortresses”, where players roll dice to fight fantastical creatures and adventure through fortresses while someone designated a “Fortress Master” tells a story.
 "Fiends and Fortresses - Fortress Master's Guide" - A book on how to lead players through a story and gameplay in the popular role-playing game “Fiends and Fortresses”
+Famous quotes of King Regenald VI
+Amathar’s Chronicles of the Tetrad Heresy
+The Art of the Eladrin
+The Autobiography of Sir Keveron Truelance
+The Day of Fire, a Play in Five Parts
+Distaff and Shepherd’s Crook: the Importance of Textiles
+A History of the War-Priests of Bzondricanth
+Last Words of the Condemned: A Collection of Confessions
+The Medicinal Benefits of Bloodletting
+Phaedra’s Collected Fables and Nursery Rhymes
+A Discourse on Friendship
+Shezifar’s Tome of Unfulfilled Prophecies
+Essays on the Nature of Love by Lady Taralyn Sorinir
+Reading Common Signs and Omens
+Truth, Beauty and the Knightly Ideal
+Weights and Measures
+A Herald’s Guide to Pennants and Crests
+The Tears of the Saints
+Common Causes for Border Wars
+Fasting and Spiritual Growth
+The Wildlife of the Moors
+Day of the Primordials, a Tale
+Essentials for the Equestrian
+A Nation at War
+Bear’s Hollow: a Sketchbook
+Construction of a Keep
+Designing and Planting a Hedge Maze
+An Overview of Dwarven Epic Poetry
+Battle Hymns of the Celestial Tower
+The Traveling Bestiary of Farlad the Blue
+Principles of Finance
+The Sad Tale of Sargon Rex
+Encyclopedia of Common Plants
+A Guide to Giantish Runes
+Exploring the World of Shadow Puppetry
+A Culinary History of the Barony of Jarik
+Uses for the Leech in Contemporary Medicine
+A Common-to-Dwarven Dictionary
+The Tale of the Carpenter and the Dragon
+Torture and Morality
+The Care and Feeding of a Prize Falcon
+Symptoms and Treatments for Conjuritis
+Whispering Leaves: a Translated Anthology of Elven Poetry
+Castle Sanitation
+The Brewing Storm: Signs Every Tax Collector Should Know
+The Meaning of Fealty
+Haunted Sites of the Realm
+Negotiating with Trade Guilds
+The Life of Saint Ryla
+Collected Tavern Songs
+The Mosaics of the Monastery of the Crystal Cataract
+Proper Administration of a Royal Granary
+Legal Codes of the Realm
+Common Phrases in Abyssal
+The Burning Candle: a Romance
+Basics of Winter Food Preservation
+What is Evil? Collected Essays
+Seeking the Philosopher’s Stone
+Burial Customs of Ancient Peoples
+Court Mannerisms and Etiquette
+Cultivating Common Pipeweeds
+The Fashions of the Court of Baron Uther XI
+The Indispensable Vizier
+The Ice Saga of Eonyl the Snow-Reaver
+Heraldry of the Realm
+An Introduction to Ale-Brewing
+Barbarian Tribes of the North
+The Mystery of the Dolmen of Ap Drych
+Deployment of Spearmen on the Battlefield
+The Chandler’s Craft
+Sehanine’s Dream
+Basics of Financial Recording
+Lady Thanara and the Dragon
+Principles of Governing and Lordship
+Great Sculptors of History
+Military Decorations of the Realm
+The Sins of the Kingpriest: a Play in Three Parts
+A History of the Inquisition of the Fourth Age
+An Illustrated Guide to Gems and Jewels
+The Administration of Low Justice
+On the march: a Captain’s Manual
+Pirates of the Azure Sea
+Matters of the Hart: a Guide to Hunting
+Tales of Valor
+Tenets of Statesmanship
+Interpreting Goblin Pictoglyphs
+The Dreamsong
+Eleven Knightly Virtues
+Mathematics and Astronomy
+Customs of Established religions
+Bloodlines of the Lords of Trissel
+Principles of Astral Navigation
+The Elven Calendar
+Wisdom of Our Kings
+Basics of Husbandry
+Conventions of Bardic Music
+Norrin’s Treatise on Medicinal Herbs
+A History of the Noble House of Zephron
+The Virtues of Courtly Love
+The Tale of Etienne and the Foxwoman
